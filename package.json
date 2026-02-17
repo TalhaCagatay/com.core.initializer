@@ -1,0 +1,19 @@
+{
+  "name"            : "com.core.initializer",
+  "displayName"     : "com.core.initializer",
+  "version"         : "0.1.0",
+  "unity"           : "6000.3",
+  "unityRelease"    : "7f1",
+  "description"     : "Initializer package will be responsible of getting all controllers and initializing them.",
+  "author"          : {
+	"name" : "Talha Cagatay ISIK",
+	"url"  : "http://www.example.com",
+	"email": "isiktalhacagatay@gmail.com"
+  },
+  "changelogUrl"    : "https://example.com/changelog.html",
+  "documentationUrl": "https://example.com/",
+  "licensesUrl"     : "https://example.com/licensing.html",
+  "dependencies"    : {
+	"com.cysharp.unitask": "2.5.10"
+  }
+}
